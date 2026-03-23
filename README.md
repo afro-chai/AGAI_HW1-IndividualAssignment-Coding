@@ -42,16 +42,20 @@ Optional Interface controls (if present): **casualty-risk-level**, **burnout-sen
 - **Two scenarios:** Tech-Driven Automation vs Human-Centric Support (globals set in `apply-scenario-presets`).  
 - **Outputs (≥3):** e.g. mission capability, combat power, average soldier load, burnout rate (plots); unemployment / casualty visible on the world.  
 
-For full design narrative, scenario comparison, and AI-use documentation, see **`HW1.pdf`**.
+For full design narrative, scenario comparison, and AI-use documentation, see **`WriteUp.tex`** (and your compiled PDF output).
 
 ---
 
-## Repository layout (suggested)
+## Repository layout (current)
 
 ```
 ├── BrigadeStaff_AI_Workforce_Odyssey.nlogox   # main NetLogo 7 model
-├── README.md                                   # this file
-├── AGAI_HW1_IndividualAssignment.pdf    # short writeup (LaTeX)
+├── WriteUp.tex                                 # short memo source (LaTeX)
+├── AGAI_HW1_IndividualAssignment.pdf           # compiled memo (submission-ready PDF)
+├── model_snip0.png                             # figure: Pre-run screenshot
+├── model_snip1.png                             # figure: Tech-Driven run screenshot
+├── model_snip2.png                             # figure: Human-Centric run screenshot
+└── README.md                                   # project overview and run instructions
 ```
 
 ---
