@@ -58,6 +58,17 @@ For full design narrative, scenario comparison, and AI-use documentation, see **
 └── README.md                                   # project overview and run instructions
 ```
 
+## Images
+
+### Pre-run baseline
+![Pre-run baseline screenshot](model_snip0.png)
+
+### Tech-Driven run
+![Tech-Driven run screenshot](model_snip1.png)
+
+### Human-Centric run
+![Human-Centric run screenshot](model_snip2.png)
+
 ---
 
 ## Citation / academic use
