@@ -82,4 +82,4 @@ AI Support Used: Cursor & ChatGPT
 
 ## License
 
-All rights reserved unless your course specifies otherwise. Model is submitted as part of an individual academic assignment.
+All rights reserved. Model is submitted as part of an individual academic assignment.
