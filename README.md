@@ -50,6 +50,7 @@ For full design narrative, scenario comparison, and AI-use documentation, see **
 
 ```
 ├── BrigadeStaff_AI_Workforce_Odyssey.nlogox   # main NetLogo 7 model
+├── BrigadeStaff_AI_Workforce_Odyssey.html   # web setup
 ├── WriteUp.tex                                 # short memo source (LaTeX)
 ├── AGAI_HW1_IndividualAssignment.pdf           # compiled memo (submission-ready PDF)
 ├── model_snip0.png                             # figure: Pre-run screenshot
